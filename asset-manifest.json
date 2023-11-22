@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.856e1232.chunk.css",
-    "main.js": "/static/js/main.63dd6778.chunk.js",
-    "main.js.map": "/static/js/main.63dd6778.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.76f7a808.js",
-    "runtime-main.js.map": "/static/js/runtime-main.76f7a808.js.map",
-    "static/js/2.8913aa8f.chunk.js": "/static/js/2.8913aa8f.chunk.js",
-    "static/js/2.8913aa8f.chunk.js.map": "/static/js/2.8913aa8f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.856e1232.chunk.css.map": "/static/css/main.856e1232.chunk.css.map",
-    "static/js/2.8913aa8f.chunk.js.LICENSE.txt": "/static/js/2.8913aa8f.chunk.js.LICENSE.txt",
-    "static/media/error-gojo.6f959416.gif": "/static/media/error-gojo.6f959416.gif",
-    "static/media/mjolnir.61f31e18.png": "/static/media/mjolnir.61f31e18.png",
-    "static/media/vision.067d4ae1.png": "/static/media/vision.067d4ae1.png"
+    "main.css": "/marvel-api-react/static/css/main.856e1232.chunk.css",
+    "main.js": "/marvel-api-react/static/js/main.63dd6778.chunk.js",
+    "main.js.map": "/marvel-api-react/static/js/main.63dd6778.chunk.js.map",
+    "runtime-main.js": "/marvel-api-react/static/js/runtime-main.82b13219.js",
+    "runtime-main.js.map": "/marvel-api-react/static/js/runtime-main.82b13219.js.map",
+    "static/js/2.8913aa8f.chunk.js": "/marvel-api-react/static/js/2.8913aa8f.chunk.js",
+    "static/js/2.8913aa8f.chunk.js.map": "/marvel-api-react/static/js/2.8913aa8f.chunk.js.map",
+    "index.html": "/marvel-api-react/index.html",
+    "static/css/main.856e1232.chunk.css.map": "/marvel-api-react/static/css/main.856e1232.chunk.css.map",
+    "static/js/2.8913aa8f.chunk.js.LICENSE.txt": "/marvel-api-react/static/js/2.8913aa8f.chunk.js.LICENSE.txt",
+    "static/media/error-gojo.6f959416.gif": "/marvel-api-react/static/media/error-gojo.6f959416.gif",
+    "static/media/mjolnir.61f31e18.png": "/marvel-api-react/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/marvel-api-react/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.76f7a808.js",
+    "static/js/runtime-main.82b13219.js",
     "static/js/2.8913aa8f.chunk.js",
     "static/css/main.856e1232.chunk.css",
     "static/js/main.63dd6778.chunk.js"
