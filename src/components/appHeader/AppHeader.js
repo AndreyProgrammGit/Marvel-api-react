@@ -1,4 +1,5 @@
 import './appHeader.scss';
+import ComicsList from '../comicsList/ComicsList';
 
 const AppHeader = () => {
     return (
