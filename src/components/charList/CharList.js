@@ -27,6 +27,7 @@ const CharList = (props) => {
     }
 
     const onCharListLoaded = (newCharList) => {
+
         let ended = false;
         if(newCharList.length < 9) {
             ended = true;
@@ -74,7 +75,7 @@ const CharList = (props) => {
                 </li>
             )
         });
-        // А эта конструкция вынесена для центровки спиннера/ошибки
+        
         return (
             <ul className="char__grid">
                 {items}
@@ -85,7 +86,7 @@ const CharList = (props) => {
     const items = renderItems(charList);
 
     const errorMessage = error ? <ErrorMessage/> : null;
-    const spinner = loading && !newItemLoading ? <Spinner/> : null;
+    const spinner = loading && !newItemLoading ? <Spinner/> : null; 
 
     return (
         <div className="char__list">
